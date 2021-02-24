@@ -13,6 +13,7 @@ Catering service robot is widely applied to restaurants to replace the works of 
 
 ### Paper List
 If you find this dataset is helpful, please kindly consider citing the following papers:
+
 1.Lee, Ching-Hung, Yu-Hui Wang, and Amy JC Trappey. "Ontology-based reasoning for the intelligent handling of customer complaints." Computers & Industrial Engineering 84 (2015): 144-155.
 ```
 @article{lee2015ontology,
