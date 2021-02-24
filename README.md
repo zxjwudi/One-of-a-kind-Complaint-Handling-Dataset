@@ -58,7 +58,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><![endif]-->
+</xml>
 <link rel=themeData href="Column%20Name_files/themedata.thmx">
 <link rel=colorSchemeMapping href="Column%20Name_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
