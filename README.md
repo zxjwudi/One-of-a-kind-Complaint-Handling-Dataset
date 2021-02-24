@@ -3,6 +3,7 @@
 
 ## Overview
 This customer complaint dataset is collected from the high-class restaurant chains of two brands, which are named 'Shintori' and 'People' with four branch restaurants in Taipei City (two branches for each brand). 
+This dataset consists of two versions, one is Traditional Chinese(繁体中文) and the other is Simplified Chinese(简体中文).
 
 
 ### Highlights:
