@@ -9,9 +9,11 @@ This dataset consists of two versions, one is Traditional Chinese(繁体中文) 
 ### Highlights:
 Catering service robot is widely applied to restaurants to replace the works of the restaurant staffs partially. Limited by the degree of intelligence, these robots in the market can only handle relatively simple services such as ordering dishes, obstacle avoidance and food delivery, etc. For some complex tasks, such as dealing with customer complaints, human services are still needed. In order to equip the catering service robot with the intelligence of customer complaint handling, in this paper, we conduct a dataset collection work from restaurant chains of two brands over four years. As a result, we collect a dataset containing thousands of complaint cases. These complaint cases involve the whole stages of dining service, specifically contain include complaint attributes, complaint description and complaint handling result, etc. This dataset bridges the lack of detailed industrial customer complaint handling data in the dining service of high-end restaurants, which is very valuable for the development of catering service robot. To our best knowledge, the rich dataset reported in this paper is the ﬁrst comprehensive study of customer complaint handling in an industrial service management context. In addition, this dataset may help lead to more realistic complaint handling theoretic and analytic studies and more effective knowledge approaches for complaint handling recommendation.
 
-### Bibtex
-If you find this dataset is helpful, please kindly consider citing the following papers:
+## Citation
 
+### Paper List
+If you find this dataset is helpful, please kindly consider citing the following papers:
+1.Lee, Ching-Hung, Yu-Hui Wang, and Amy JC Trappey. "Ontology-based reasoning for the intelligent handling of customer complaints." Computers & Industrial Engineering 84 (2015): 144-155.
 ```
 @article{lee2015ontology,
   title={Ontology-based reasoning for the intelligent handling of customer complaints},
@@ -20,6 +22,32 @@ If you find this dataset is helpful, please kindly consider citing the following
   volume={84},
   pages={144--155},
   year={2015},
+  publisher={Elsevier}
+}
+```
+
+2.Trappey, A.J.C., Lee, Ching Hung, Chen, W.P. and Trappey, C.V., 2010, “A framework of customer complaint handling system, Service Systems and Service Management” (ICSSSM 2010), 7th International Conference, Tokyo, Japan, pp 28-30. 
+```
+@inproceedings{trappey2010framework,
+  title={A framework of customer complaint handling system},
+  author={Trappey, Amy JC and Lee, Ching-Hung and Chen, Wen-Pin and Trappey, Charles V},
+  booktitle={2010 7th International Conference on Service Systems and Service Management},
+  pages={1--6},
+  year={2010},
+  organization={IEEE}
+}
+```
+
+3.Wang, Yu-Hui, Lee, Ching-Hung*, and Trappey, A.J.C., 2017, “Modularized design-oriented systematic inventive thinking approach supporting collaborative service innovations”, Advanced Engineering Informatics. 33, 300-313.
+
+```
+@article{wang2017modularized,
+  title={Modularized design-oriented systematic inventive thinking approach supporting collaborative service innovations},
+  author={Wang, Yu-Hui and Lee, Ching-Hung and Trappey, Amy JC},
+  journal={Advanced Engineering Informatics},
+  volume={33},
+  pages={300--313},
+  year={2017},
   publisher={Elsevier}
 }
 ```
