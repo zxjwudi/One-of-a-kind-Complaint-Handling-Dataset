@@ -26,7 +26,6 @@ If you find this dataset is helpful, please kindly consider citing the following
 ## Column Description of Customer Complaint Dataset
 
 
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -43,16 +42,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>xuejiao zhao</o:Author>
   <o:LastAuthor>xuejiao zhao</o:LastAuthor>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
   <o:Created>2021-02-24T11:14:00Z</o:Created>
-  <o:LastSaved>2021-02-24T11:15:00Z</o:LastSaved>
+  <o:LastSaved>2021-02-24T11:20:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>233</o:Words>
-  <o:Characters>1334</o:Characters>
+  <o:Words>232</o:Words>
+  <o:Characters>1324</o:Characters>
   <o:Lines>11</o:Lines>
   <o:Paragraphs>3</o:Paragraphs>
-  <o:CharactersWithSpaces>1564</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1553</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -63,8 +62,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="Column%20Name_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
+  <w:Zoom>120</w:Zoom>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -89,6 +87,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:OverrideTableStyleHps/>
    <w:UseFELayout/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -726,6 +725,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-fareast-font-family:PMingLiU;
 	mso-font-kerning:1.0pt;
 	mso-fareast-language:ZH-TW;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 p.a2, li.a2, div.a2
 	{mso-style-name:a2;
 	mso-style-unhide:no;
@@ -738,28 +749,21 @@ p.a2, li.a2, div.a2
 	font-family:"PMingLiU",serif;
 	mso-bidi-font-family:PMingLiU;
 	mso-fareast-language:ZH-TW;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:SimSun;
+	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:10.0pt;
-	line-height:115%;}
 @page WordSection1
 	{size:612.0pt 792.0pt;
 	margin:72.0pt 72.0pt 72.0pt 72.0pt;
@@ -781,13 +785,9 @@ div.WordSection1
 	mso-style-priority:99;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
+	mso-para-margin:0cm;
 	mso-pagination:widow-orphan;
-	font-size:11.0pt;
+	font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -812,231 +812,185 @@ div.WordSection1
 style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none;mso-border-top-alt:solid black .5pt;
- mso-border-bottom-alt:solid black .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black'>
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=115 valign=top style='width:86.0pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Column
   Name<o:p></o:p></span></p>
   </td>
-  <td width=150 valign=top style='width:112.45pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=181 valign=top style='width:136.05pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Range<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Description<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_Time</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_Time<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Time<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Reporting
   time <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_WKSTOR<o:p></o:p></span></p>
   </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>{Banboo_1,
   Shadow_3, Waterfall_4, Spring_5}<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Title and
   number of restaurants<o:p></o:p></span></p>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Banboo_1
-  and Waterfall_4 are the branches of <span class=SpellE>Shintori</span>. <o:p></o:p></span></p>
+  and Waterfall_4 are the branches of Shintori. <o:p></o:p></span></p>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Shadow_3
-  and Spring_5 are the branches of People. <o:p></o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Shadow_3 and
+  Spring_5 are the branches of People. <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCDate</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCDate<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Date<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Date of
   customer complaint <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCTime</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCTime<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Time<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Time of
   customer compliant<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCPlace</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCPlace<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Open text <o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Dining
   table or places of complaints delivered<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCMemo</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCMemo<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Open text<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Content of
   customer complaint<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCType</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_CusCType<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>{1-food
   taste and food defection, 2-insufficient quantity, 3-abnormal object,
@@ -1044,9 +998,10 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></spa
   exceed customers’ expectation, 8-personnel service, 9-environment sanitation,
   10-facility, 11-customer emotional issue, 12-others.<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Types of
   customer complaints selected when users key in complaints handling process on
@@ -1055,58 +1010,48 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></spa
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Cus_type</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Cus_type<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>{1-Spring;
   2- Summer; 3- Autumn; 4- Winter}<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Spring
-  temperament - bloody factor; Summer temperament - bile factor; Autumn
-  temperament - mucus factor; Winter temperament - depression factor. <o:p></o:p></span></p>
+  temperament - bloody factor; Summer temperament - bile factor; Autumn temperament
+  - mucus factor; Winter temperament - depression factor. <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_Handling</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_Handling<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Open text<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Content of
   customer complaint handling, mainly including nine attributes: 1-free food,
@@ -1115,22 +1060,16 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></spa
   </td>
  </tr>
  <tr style='mso-yfti-irow:10;mso-yfti-lastrow:yes'>
-  <td width=115 valign=top style='width:86.0pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=a2 style='margin:0cm;line-height:15.0pt'><span class=SpellE><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_Result</span></span><span
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
-  </td>
-  <td width=150 valign=top style='width:112.45pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=115 valign=top style='width:86.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>R_Result<o:p></o:p></span></p>
   </td>
-  <td width=181 valign=top style='width:136.05pt;border:none;border-bottom:
-  solid black 1.0pt;mso-border-top-alt:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=181 valign=top style='width:136.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>{4-very
   unsatisfactory<o:p></o:p></span></p>
@@ -1140,12 +1079,13 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></spa
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>2-satisfactory<o:p></o:p></span></p>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>1- very <span
-  class=GramE>satisfactory }</span><o:p></o:p></span></p>
+  10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>1- very
+  satisfactory }<o:p></o:p></span></p>
   </td>
-  <td width=211 valign=top style='width:158.2pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width=211 valign=top style='width:158.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=a2 style='margin:0cm;line-height:15.0pt'><span style='font-size:
   10.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif'>Results
   from customers’ attitude and feeling<o:p></o:p></span></p>
@@ -1160,6 +1100,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></spa
 </body>
 
 </html>
+
 
 
 
