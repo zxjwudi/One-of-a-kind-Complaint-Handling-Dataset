@@ -2,7 +2,7 @@
 
 
 ## Overview
-This customer complaint dataset is collected from the high-class restaurant chains of two brands, which are named 'Shintori' and 'People' with four branch restaurants in Taipei City (two branches for each brand). 
+This customer complaint dataset is collected from the high-class restaurant chains of two brands of Shintori Catering Co., Ltd, which are named 'Shintori' and 'People' with four branch restaurants in Taipei City (two branches for each brand). 
 This dataset consists of two versions, one is Traditional Chinese(繁体中文) and the other is Simplified Chinese(简体中文).
 
 
@@ -1135,7 +1135,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></spa
 
 
 ### Acknowledgement
-We thanks for the original data-sharing and support of Shintori restaurant. This research was partially supported by the Xi’an Jiaotong University [grant number 7121192301]. 
+We thanks for the original data-sharing and support of Shintori Catering Co., Ltd. This research was partially supported by the Xi’an Jiaotong University [grant number 7121192301]. 
 
 
 If you have any questions or concerns, please kindly email to [**Xuejiao Zhao**](xjzhao@ntu.edu.sg).
