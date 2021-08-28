@@ -52,7 +52,7 @@ If you find this dataset is helpful, please kindly consider citing the following
 }
 ```
 
-## Column Description of Customer Complaint Dataset
+## Datasheet of Customer Complaint Dataset
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -709,7 +709,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
    Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
-<style>
+
+	
 <!--
  /* Font Definitions */
  @font-face
@@ -801,7 +802,6 @@ p.a2, li.a2, div.a2
 div.WordSection1
 	{page:WordSection1;}
 -->
-</style>
 <!--[if gte mso 10]>
 <style>
  /* Style Definitions */
